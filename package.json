@@ -1,0 +1,22 @@
+{
+    "name": "@ashudev05/fizzbuzz",
+    "version": "3.0.1",
+    "description": "Displays the famous FizzBuzz series between the provided range",
+    "license": "MIT",
+    "repository": "https://github.com/ASHUdev05/fizzbuzz-npm",
+    "homepage": "https://github.com/ASHUdev05/fizzbuzz-npm#readme",
+    "main": "index.js",
+    "bin": "index.js",
+    "types": "index.d.ts",
+    "keywords": [
+        "FizzBuzz",
+        "npm",
+        "package",
+        "ashudev05",
+        "fizzbuzz",
+        "Fizzbuzz"
+    ],
+    "dependencies": {
+        "typescript": "^4.5.4"
+    }
+}
